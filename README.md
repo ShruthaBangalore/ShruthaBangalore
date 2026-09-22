@@ -1,8 +1,8 @@
 - 👋 Hi, I am  @ShruthaBangalore
-- 👀 I’m interested in working in the computer science field
-- 🌱 I’m currently learning Python (Possibly learn C++ or Java next)
+- 👀 I am a student attending the University of Kansas, pursuing a major in Computer Science, and a minor/certification in Cybersecurity!
+- 🌱 I’m currently learning Javascript, and modern web development! I also have an interest in neural networks and machine learning! Specifically the ability to implement these concepts into modern web applications!
 - 💞️ 
-- 📫 How to reach me bangashr@usd437.net
+- 📫 How to reach me sumishru@ku.edu
 
 <!---
 ShruthaBangalore/ShruthaBangalore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
